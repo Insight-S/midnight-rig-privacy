@@ -1,43 +1,43 @@
 Privacy Policy for Midnight Rig: Neon Haul
-Last Updated: November 11, 2026
-Effective Date: November 11, 2026
-This Privacy Policy applies to the mobile game Midnight Rig: Neon Haul (the "Application" or "Game"), package identifier com.midnightrig.neonhaul, developed and published as a commercial / ad-supported title (the "Service").
-We respect your privacy. This document outlines how data is collected, used, and protected when you install, play, and interact with Midnight Rig: Neon Haul.
-1. Information We Do Not Collect
-Midnight Rig: Neon Haul is designed to minimize data collection:
-No User Accounts: You are not required to create an account, log in, or provide personal details (such as your legal name, physical address, phone number, or email address) to play the game.
-No Precise Geolocation: The game does not access your device’s GPS, cell tower location, or fine location sensors. (All truck navigation and GPS beacons in the game represent simulated, fictional road coordinates).
-No Access to Sensitive Hardware: The game does not access your microphone, camera, contacts, photos, or file system outside its own sandbox.
-2. Information Collected by Third-Party Services (Advertising & Analytics)
-To keep Midnight Rig: Neon Haul free to play, the game integrates third-party advertising networks (such as Google AdMob and/or AppLovin / MAX) to serve optional rewarded video lifelines and interstitial transitions.
-These third-party SDKs may automatically collect and process certain non-personally identifiable information, including:
-Device Identifiers: Google Advertising ID (GAID / AAID), IP address, and unique pseudonymous device identifiers.
-Hardware & Software Specifications: Device model, manufacturer, operating system version, screen resolution, system language, and network carrier type.
-Ad Interaction Data: Ad view duration, click-throughs, impressions, and completion events for rewarded lifelines.
-These third parties process data in accordance with their respective privacy policies:
-Google Play Services & AdMob: https://policies.google.com/privacy
-AppLovin: https://www.applovin.com/privacy/
+Last Updated: November 13, 2026
+1. Overview & Information We Do Not Collect
+Insight Studios ("we," "our," or "us") built Midnight Rig: Neon Haul as an ad-supported free mobile game. We respect your privacy and do not require user accounts, logins, or registration, and we do not collect or store personal details, phone numbers, contacts, precise GPS location, or hardware serial identifiers on our own servers.
+2. Third-Party Advertising (Google AdMob)
+To keep Midnight Rig: Neon Haul free to download and play, the game displays third-party advertisements served through Google AdMob (Google Mobile Ads SDK). These third-party ads appear in two ways:
+Optional Rewarded Ads: Players may choose to watch a sponsored video ad in exchange for in-game benefits (such as Emergency Roadside Repair, Emergency Fuel Dispatch, Overtime Extension, Waiving a DOT Inspection Delay, or a 2× Contract Payout Bonus).
+Interstitial Ads: Occasional full-screen transition ads may be shown between completed delivery contracts.
+When you use the app, Google AdMob and Google Play Services may automatically collect and process certain data in accordance with Google’s privacy practices, including:
+Device & Technical Specifications: Device model, manufacturer, operating system version, screen resolution, system language, and network/carrier type.
+Advertising & Device Identifiers: Android Advertising ID (AAID) and app-set identifiers used for ad delivery, frequency capping, attribution, and fraud prevention.
+Approximate Location: General region/country derived from your IP address (not precise GPS).
+Ad Interaction & Diagnostic Data: Ad impressions, view duration, click-throughs, rewarded-ad completion events, and SDK crash/performance diagnostics.
+Where required by regional law (such as in the EEA or UK), the app uses Google’s User Messaging Platform (UMP) consent dialog so you can manage your ad-personalization preferences.
+This third-party service processes data in accordance with its own privacy policy:
+Google Play Services & Google AdMob: https://policies.google.com/privacy
+How Google uses information from sites or apps that use its services: https://policies.google.com/technologies/partner-sites
 3. Device Permissions Used
-Midnight Rig: Neon Haul requests only the minimum device permissions required for gameplay functionality:
+Midnight Rig: Neon Haul requests only the minimum device permissions required for gameplay and third-party ad delivery:
 android.permission.VIBRATE: Triggers tactile haptic feedback when shifting gears, stomping the pneumatic air brake, or colliding with curbs.
 android.permission.WAKE_LOCK: Keeps the phone display illuminated while actively maneuvering and driving the truck, preventing unwanted screen dimming during gameplay.
-android.permission.INTERNET & ACCESS_NETWORK_STATE: Required solely to stream third-party ad inventory (rewarded videos and interstitials) and verify network connectivity.
-4. Local Data Storage
-All game state—including unlocked contract tiers, driving preferences (such as your chosen D-pad layout: Centered, Split, Left, or Right), sound volume levels, and high scores—is stored locally on your device (via HTML5 localStorage / application preferences).
-This data is never transmitted to our private servers and is erased if you clear the app’s cache or uninstall the game.
+android.permission.INTERNET & android.permission.ACCESS_NETWORK_STATE: Required to load and display third-party Google AdMob ad inventory (rewarded videos and interstitials) and verify network connectivity.
+com.google.android.gms.permission.AD_ID: Used by the Google Mobile Ads (AdMob) SDK to access the Android Advertising ID for ad serving, measurement, and anti-fraud checks.
+4. Local Data Storage (Career Stats & Preferences)
+All game progress and player preferences are stored strictly locally on your device (via HTML5 localStorage / WebView app storage), including:
+Unlocked contract tiers and route completions
+Career Stats: Anonymous local driver slots (Driver Slot 1–3), any optional arcade callsign you type in, lifetime mileage, deliveries completed, accidents avoided, clean haul streaks, and best parking grades
+Driving preferences (Control Stick / touch layout: Centered, Split, Left, or Right) and audio mute/volume settings
+This local data is never transmitted to our servers or tracked off-device. You can erase your Career Stats at any time using the in-game Reset Stats option, or remove all local data by clearing the app’s storage/cache or uninstalling the game.
 5. Children’s Privacy (COPPA Compliance)
 Midnight Rig: Neon Haul is not directed at children under the age of 13. We do not knowingly collect or solicit personal information from children under 13.
-If you are a parent or guardian and believe that your child has provided personal information or that an integrated ad provider has inadvertently collected data from a child under 13, please contact us immediately at asterdaye@gmail.com, and we will take immediate steps to remove such information.
+If you are a parent or guardian and believe that your child has provided personal information or that an integrated ad provider has inadvertently collected data from a child under 13, please contact us immediately at asterdaye@gmail.com, and we will take prompt steps to assist and address the issue.
 6. Your Rights and Opting Out of Targeted Advertising
 You have control over how advertising data is used on your Android device:
-Reset or Delete Advertising ID: Open your Android device’s Settings 
- Google 
- Ads, where you can reset your Advertising ID or toggle on "Delete Advertising ID" to prevent personalized ad tracking across all apps.
-GDPR / CCPA / CPRA Notice: If you reside in the European Economic Area (EEA), the United Kingdom, or California, you are entitled to access, rectify, or request deletion of data held by third-party ad networks under applicable data protection laws. Because we do not store personal profiles on our own servers, requests regarding advertising identifiers can be handled via the third-party privacy portals linked in Section 2.
+Reset or Delete Advertising ID: Open your Android device’s Settings → Google → Ads (or Privacy → Ads depending on Android version), where you can reset your Advertising ID or select "Delete advertising ID" / opt out of ad personalization across apps.
+GDPR / UK GDPR / CCPA / CPRA Notice: If you reside in the European Economic Area (EEA), the United Kingdom, or California, you have rights regarding access, correction, restriction, or deletion of personal data processed by third-party ad networks. You can manage consent via the in-app consent prompt (where applicable) or exercise your rights through Google’s privacy portal linked in Section 2. Because Insight Studios does not store personal profiles on its own servers, we hold no personal data about you.
 7. Security
-We take the security of your device seriously. Midnight Rig: Neon Haul operates strictly within the standard Android application sandbox, and all network transmissions initiated by third-party ad SDKs are encrypted in transit via Transport Layer Security (HTTPS).
+We take the security of your device seriously. Midnight Rig: Neon Haul operates strictly within the standard Android application sandbox, and all network transmissions initiated by the third-party Google AdMob SDK are encrypted in transit via Transport Layer Security (HTTPS/TLS).
 8. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time to reflect changes in regulatory standards or game updates. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this page periodically.
+We may update this Privacy Policy from time to time to reflect regulatory changes or game updates. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this page periodically.
 9. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy or the data practices of Midnight Rig: Neon Haul, please contact:
 Developer: Insight Studios
